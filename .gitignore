@@ -1,0 +1,18 @@
+# Dependency directories
+
+target
+
+#idea-generated
+.idea
+*.iml
+
+#eclipse-generated
+.settings/
+.classpath
+.project
+
+node_modules
+
+*.log
+*.ipr
+*.iws
